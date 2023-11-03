@@ -27,7 +27,7 @@ PS : gardez en tête que l'objectif est de maximiser la valeur, autrement dit vo
 
 2. Votez ou revotez à l'aide du Planning Poker pour estimer la complexité globale des *US* sélectionnés.
 
-3. Assignez un responsable par ticket (developpers qui sera amené à implémenter une solution pour répondre au besoin) sur Jira.
+3. Assignez un responsable par ticket (developers qui sera amené à implémenter une solution pour répondre au besoin) sur Jira.
 
 4. Déterminez un plan d'action pour les premiers jours du *Sprint*.
 

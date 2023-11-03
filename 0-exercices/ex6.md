@@ -15,7 +15,7 @@
 
 1. Priorisez vos *US*
 2. Estimez la complexité des *US* les plus prioritaires (estimation d'au moins 5 tickets).
-- Votez (estimez) en utilisant l'extension *Planning Poker online*.
+- Votez (estimez) en utilisant [Planning Poker online](https://planningpokeronline.com/).
 - En cas d'écart, confrontez les membres de l'équipe qui ont voté aux extrêmes (note la plus basse et note la plus élevée) pour avoir les arguments de chacun et revotez à nouveau en tenant compte de l'échange. Dans le cas où vous n'arriveriez pas à vous mettre d'accord après le 3e tour de vote sur le même ticket, mettez le score le plus élevée au ticket.
 
 ## Mise en place du Planning Poker

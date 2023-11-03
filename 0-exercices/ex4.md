@@ -4,16 +4,18 @@
 
 ## Modalités
 
+- 1 binôme et 1 trinôme
+
 L'exercice se déroule en 3 phases.
-1. Phase 1 : Préparation des questions pour les utilisateurs finaux à l'aide d'un GoogleForms.
-2. Phase 2 : Partagez vos questions aux autres pour qu'ils puissent y répondre soit en se mettant à la place d'un potentiel utilisateurs soit en étant soi-même
-3. Phase 3 : Créez vos personas à partir de l'analyse des réponses l'aide du site [Edit.org](https://edit.org/fr/blog/user-persona-online-editable-templates-examples) pour créer des personas
+1. Phase 1 : préparation des questions pour les utilisateurs finaux à l'aide d'un [GoogleForms](https://docs.google.com/forms/u/0/).
+2. Phase 2 : partagez vos questions avec l'autre binôme ou trinôme pour qu'ils puissent y répondre soit en se mettant à la place d'un potentiel utilisateur soit en étant eux-mêmes.
+3. Phase 3 : créez vos personas à partir de l'analyse des réponses l'aide du site [Edit.org](https://edit.org/fr/blog/user-persona-online-editable-templates-examples) pour créer des personas
 
 ---
 
-## Enoncé
+## Énoncé
 
-1. A partir du besoin exprimé ci-dessous, préparez une série de question.
+1. À partir du besoin exprimé ci-dessous, préparez une série de questions.
 2. Créez un questionnaire pour l'entretien avec les utilisateurs finaux.
 3. Créez vos personas.
 
