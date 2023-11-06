@@ -12,6 +12,7 @@ Nous allons utiliser dans le cadre de cette formation des outils beaucoup plus s
 ## Tableau Trello
 
 1. Une personne dans le groupe se charge de créer un tableau Trello et d'inviter les autres collaborateurs à participer à ce tableau.Vous pouvez vous appuyer sur cette [documentation](https://trello.com/fr/guide/enterprise/creating-projects-inviting-members) pour effectuer les opérations précédentes.
+2. Invitez également le formateur (contact@tshimini.fr) sur votre tableau.
 
 ---
 
