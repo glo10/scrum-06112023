@@ -29,7 +29,7 @@
 
 ## Bilan
 
-Les deux familles des méthodes ont des avantages et des inconvénients, l'un n'est pas meilleur que l'autre, tout dépendra du projet (prévisible ou non, complexe ou non, innovant ou non) et des ressources à mettre en place.
+Les deux familles des méthodes (classiques et agiles) ont des avantages et des inconvénients, l'un n'est pas meilleur que l'autre, tout dépendra du projet (prévisible ou non, complexe ou non, innovant ou non) et des ressources à mettre en place.
 
 D'après les statistiques sur un échantillon (une très fine partie de tous les projets), les projets avec les méthodes agiles réussissent plus.
 
