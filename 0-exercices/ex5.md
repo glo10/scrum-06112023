@@ -14,7 +14,7 @@
 
 **Concentrez-vous pour les user stories uniquement sur la partie coaching**.
 **Tous les tickets concernant la connexion, déconnexion, inscription, etc. sont bannis dans votre Product Backlog**
-1. À partir des besoins ci-dessous, construisez votre *Product Backlog* en suivant la méthode du [splitpoker](../ressources/splitpoker.pdf) ou INVEST ou [story mapping](https://draft.io/fr/example/user-story-mapping).
+1. À partir des besoins ci-dessous, construisez votre *Product Backlog* en suivant la méthode du [splitpoker](./ressources/splitpoker.pdf) ou INVEST ou [story mapping](https://draft.io/fr/example/user-story-mapping).
 2. Regroupez vos Product Backlog Items (*US*, tâches, besoins non-fonctionnels (NFR), etc.) dans les epics (*Epic* est une macro-fonctionnalité qui regroupe plusieurs éléments (tickets) de votre Product Backlog).
 Par exemple l'epic "espace membre" dans le cadre d'un site e-commerce regroupe plusieurs sujets tels que :
 - Tableau de bord
